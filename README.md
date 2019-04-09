@@ -7,3 +7,8 @@ evil of sm
 
 # 交流
 大家可以在issues里交流
+
+# 目前之湖上的连接
+https://www.zhihu.com/question/290696102
+
+https://www.zhihu.com/question/56626976  （很多评论已经被关闭）
